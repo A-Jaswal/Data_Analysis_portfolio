@@ -23,7 +23,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Tableau]
   <br>
   [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
-  <img width="1574" height="610" alt="Screenshot 2026-07-07 181532" src="https://github.com/user-attachments/assets/94ad635e-c9e7-4e49-a750-c5f684559c9c" />
+  <img width="1074" height="210" alt="Screenshot 2026-07-07 181532" src="https://github.com/user-attachments/assets/94ad635e-c9e7-4e49-a750-c5f684559c9c" />
 
   <br>
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
