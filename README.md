@@ -32,6 +32,7 @@ I’m building my portfolio to show the projects I created during my DA course.
   <br>
 - [Power BI] <br>
   [Order_details](https://app.powerbi.com/view?r=eyJrIjoiMmRmZTJiNjQtNzcyMi00OWRhLWE1NzAtNjIzOTFiM2Y2NGExIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+  <br>
   <img width="600" height="210" alt="image" src="https://github.com/user-attachments/assets/600daa56-8e17-487a-b51d-10011111055f" />
   <br>
   <br>
