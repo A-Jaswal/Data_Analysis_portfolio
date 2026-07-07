@@ -7,10 +7,9 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 - Excel and data basics
 - Python / Google Colab
-  [World_Data](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
 - SQL / MySQL Workbench
 - Tableau / Power BI dashboards
-[Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Projects I have completed:<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1d30757c-7eb9-42e0-be31-e4af659eaeee" />
 
@@ -23,6 +22,7 @@ I’m building my portfolio to show the projects I created during my DA course.
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
 - [Tableau]
   <br>
+  [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Power BI] <br>
   [Order_details](https://github.com/A-Jaswal/A-Jaswal/blob/main/Order_analysis.png)
@@ -31,3 +31,4 @@ I’m building my portfolio to show the projects I created during my DA course.
   <br>
   [Student_score_analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/Student_score_analysis.ipynb) <br>
   [World_data](https://github.com/A-Jaswal/A-Jaswal/blob/main/World_data.ipynb)
+   [World_Data](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
