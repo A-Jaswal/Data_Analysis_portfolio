@@ -15,7 +15,8 @@ I’m building my portfolio to show the projects I created during my DA course.
   [Total Sales by gender](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20Sales%20by%20gender.png)
   <br>
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
-- [Tableau]
+- [Tableau] <br>
+  [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 - [Power BI]
 - [SQL]
 - [Python]
