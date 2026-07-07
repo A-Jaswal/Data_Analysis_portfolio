@@ -36,4 +36,6 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Python]
   <br>
   [Student_score_analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day3Task1workbook.ipynb) <br>
+  <img width="600" height="210" alt="image" src="https://github.com/user-attachments/assets/f5cd321b-b61b-419b-a6e6-d8f021f87562" />
+  <br>
    [World_Data](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
