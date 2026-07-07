@@ -1,4 +1,5 @@
-# Hi, I’m Anu,
+# Hi, I’m Anu <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069" />
+,
 I’m building my portfolio to show the projects I created during my DA course.
 
 
