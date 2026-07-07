@@ -3,7 +3,7 @@
 I’m building my portfolio to show the projects I created during my DA course.
 
 
-## What I have learnt:<img width="60" height="60" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" />
+## What I have learnt:<img width="30" height="30" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" />
 
 - Excel and data basics
 - Python / Google Colab
@@ -11,7 +11,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 - Tableau / Power BI dashboards
 [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Projects I have completed:<img width="30" height="30" alt="image (1)" src="https://github.com/user-attachments/assets/1c6cffa1-9531-4ac5-b0bc-2895c824fd38" />
+## Projects I have completed:<img width="60" height="60" alt="image (1)" src="https://github.com/user-attachments/assets/1c6cffa1-9531-4ac5-b0bc-2895c824fd38" />
 
 - [Excel]
   <br>
