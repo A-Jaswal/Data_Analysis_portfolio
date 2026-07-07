@@ -7,6 +7,7 @@ I’m building my portfolio to show the projects I created during my DA course.
 
 - Excel and data basics
 - Python / Google Colab
+  [World_Data](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
 - SQL / MySQL Workbench
 - Tableau / Power BI dashboards
 [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
