@@ -25,8 +25,10 @@ I’m building my portfolio to show the projects I created during my DA course.
   [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
   <img width="600" height="210" alt="Screenshot 2026-07-07 181532" src="https://github.com/user-attachments/assets/94ad635e-c9e7-4e49-a750-c5f684559c9c" />
   <br>
+  <br>
   [Spotify_DA](https://public.tableau.com/views/SpotifyFeatures_17803963772710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
   <img width="600" height="210" alt="Screenshot 2026-07-07 182052" src="https://github.com/user-attachments/assets/550daf2b-692a-46e0-b936-4bdf82c2c510" />
+  <br>
   <br>
 - [Power BI] <br>
   [Order_details](https://github.com/A-Jaswal/A-Jaswal/blob/main/Order_analysis.png)
@@ -34,5 +36,4 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Python]
   <br>
   [Student_score_analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/Student_score_analysis.ipynb) <br>
-  [World_data](https://github.com/A-Jaswal/A-Jaswal/blob/main/World_data.ipynb)
    [World_Data](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
