@@ -20,5 +20,5 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [SQL]
 - [Python]
   <br>
-  [Day3Task1workbook](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day3Task1workbook.ipynb) <br>
+  [Day3Task1workbook](https://github.com/A-Jaswal/A-Jaswal/blob/main/Student_score_analysis.ipynb) <br>
   [Day4Task1workbook](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day4Task1workbook.ipynb)
