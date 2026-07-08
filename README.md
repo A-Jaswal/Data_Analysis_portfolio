@@ -50,6 +50,9 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   <br>
   <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2baeb85b-e7ff-48a6-be12-2a74aa894cda" />
   <br>
+  <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1b645224-1bf1-4fee-90f1-cb62fc949efa" />
+  <br>
+  <br>
 - [Python]
   <br>
   [Student_score_analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day3Task1workbook.ipynb)
