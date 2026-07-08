@@ -26,6 +26,8 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   [Total Sales by gender](https://github.com/A-Jaswal/Data_Analysis_portfolio/blob/main/Total%20Sales%20by%20gender.png)
   <br>
   [Total Sales by category](https://github.com/A-Jaswal/A-Jaswal/blob/main/Total%20sales%20by%20category.png)
+  <br>
+  ---
 - **Tableau**
   <br>
   [Global Health Insights](https://public.tableau.com/views/GlobalHealthInsights_17806610205890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
@@ -36,6 +38,7 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   <img width="600" height="210" alt="Screenshot 2026-07-07 182052" src="https://github.com/user-attachments/assets/550daf2b-692a-46e0-b936-4bdf82c2c510" />
   <br>
   <br>
+  ---
 - **Power BI**
   <br>
   [Order_details](https://app.powerbi.com/view?r=eyJrIjoiMmRmZTJiNjQtNzcyMi00OWRhLWE1NzAtNjIzOTFiM2Y2NGExIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
@@ -43,6 +46,7 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   <img width="600" height="210" alt="image" src="https://github.com/user-attachments/assets/600daa56-8e17-487a-b51d-10011111055f" />
   <br>
   <br>
+  ---
 - **SQL**
   <br>
   [SQL_World_Data_Analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/SQL%20World%20Analysis.txt)
@@ -58,6 +62,7 @@ I’m building a portfolio to showcase the data analysis projects I created thro
   <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/1b645224-1bf1-4fee-90f1-cb62fc949efa" />
   <br>
   <br>
+  ---
 - **Python**
   <br>
   [Student_score_analysis](https://github.com/A-Jaswal/A-Jaswal/blob/main/Day3Task1workbook.ipynb)
