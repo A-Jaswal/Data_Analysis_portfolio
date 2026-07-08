@@ -1,4 +1,4 @@
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069"> Hi, I’m Anu
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069"> **Hi, I’m Anu**
 <hr style="border: 2px solid #000;" />
 
 I’m building a portfolio to showcase the data analysis projects I created throughout my bootcamp course.
