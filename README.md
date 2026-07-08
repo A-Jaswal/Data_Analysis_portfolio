@@ -18,8 +18,7 @@ I’m building a portfolio to showcase the data analysis projects I created thro
 <br>
 <br>
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1d30757c-7eb9-42e0-be31-e4af659eaeee" /> Projects I have completed:
-
+## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1d30757c-7eb9-42e0-be31-e4af659eaeee" /> Projects I have completed: <hr style="border: 1px solid #ccc;" />
 
 
 - **Excel**
