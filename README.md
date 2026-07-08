@@ -1,14 +1,19 @@
 # Hi, I’m Anu <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069" />
 
-I’m building my portfolio to show the projects I created during my DA course.
+I’m building a portfolio to showcase the data analysis projects I created throughout my bootcamp course.
 
 
 ## What I have learnt:<img width="40" height="40" alt="AdobeExpressPhotos_85669671b9ea44d988aa2c23eadcb767_CopyEdited" src="https://github.com/user-attachments/assets/5d89d4b8-22fc-4363-a66d-cc3fa48de4bc" />
 
-- Excel and data basics
-- Python / Google Colab
+- Excel and data basics <br>
+  I have learnt the basic and advanced features, formulas and functions to support analysis activities.
+  <br>
+- Tableau / Power BI dashboards <br>
+  I have understood the features, functions and usage of Tableau & Power BI. I learnt how to use them for creating visualisations & dashboards for data analysis.
+  <br>
 - SQL / MySQL Workbench
-- Tableau / Power BI dashboards
+- Python / Google Colab
+
 
 
 ## Projects I have completed:<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1d30757c-7eb9-42e0-be31-e4af659eaeee" />
