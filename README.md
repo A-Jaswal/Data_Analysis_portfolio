@@ -1,5 +1,5 @@
 # <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/91229d49-8ee1-4aec-9d61-6f8860777069"> **Hi, I’m Anu** 
-I’m building a portfolio to showcase the data analysis projects I created throughout my bootcamp course.
+I’m building a portfolio to showcase the data analysis projects I have created throughout my bootcamp course.
 <br>
 <br>
 
@@ -7,14 +7,17 @@ I’m building a portfolio to showcase the data analysis projects I created thro
 
 
 - **Excel and data basics** <br>
-  I have learnt the basic and advanced features, formulas and functions to support analysis activities.
+  Basic and advanced features, formulas and functions to support data analysis activities.
   <br>
 - **Tableau / Power BI dashboards** <br>
-  I have understood the features, functions and usage of Tableau & Power BI. I learnt how to use them for creating visualisations & dashboards for data analysis.
+  Features, functions and usage of Tableau & Power BI and creating visualisations & dashboards for data analysis.
   <br>
 - **SQL / MySQL Workbench**
+  Database system key terminologies & their importance, SQL definition and syntax to implement data manipulation and filtering.
 - **Azure**
+  Cloud computing - definition & characteristics, deployment models - IaaS, Paas, SaaS, cloud providers, user data protection legislations, features of BLOB storage, Data Lake, file storage, table storage and COSMOS DB.
 - **Python / Google Colab**
+  Purpose & advantages of using Python, identify & understand impact of algorithms, understand and demonstrate use of libraries such as PANDAS, NUMPY, MATPLOTLIB and SEABORN,  use comparison operators, conditional if statements and loops.
 <br>
 <br>
 
